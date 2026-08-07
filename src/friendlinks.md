@@ -12,15 +12,15 @@ icon: ri:links-line
   desc="一位热爱钻研技术、分享经验的互联网爱好者"
   logo="https://jibukeshi.dpdns.org/assets/avatar.png"
   link="https://jibukeshi.dpdns.org"
-></VPCard>
+/>
 
 <VPCard
   title="yyyyt的文档站"
   desc="Bad or Worse"
   logo="https://img.yyyyt.top/avatar/avatar"
   link="https://docs.yyyyt.top/"
-  repo: https://github.com/yyyytawa/yyyytawa.github.io
-></VPCard>
+  repo: "https://github.com/yyyytawa/yyyytawa.github.io"
+/>
 
 
 <VPCard
@@ -28,7 +28,7 @@ icon: ri:links-line
   desc="额...我没什么想说的..."
   logo="https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg"
   link="https://blog.qianlinjiaxi.qzz.io/"
-></VPCard>
+/>
 
 
 <VPCard
@@ -36,4 +36,4 @@ icon: ri:links-line
   desc="像Minecraft的存档一样失去了很久..."
   logo="https://r2.anran.xyz/avatar.jpg"
   link="https://www.anran.xyz/"
-></VPCard>
+/>
