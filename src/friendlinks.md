@@ -19,7 +19,7 @@ icon: ri:links-line
   desc="Bad or Worse"
   logo="https://img.yyyyt.top/avatar/avatar"
   link="https://docs.yyyyt.top/"
-  repo: "https://github.com/yyyytawa/yyyytawa.github.io"
+  repo="https://github.com/yyyytawa/yyyytawa.github.io"
 />
 
 
