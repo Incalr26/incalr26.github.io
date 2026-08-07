@@ -3,6 +3,7 @@ title: 友链
 article: false
 toc: false
 icon: ri:links-line
+ssr: false
 ---
 
 以下友情链接按照添加时间排序。
