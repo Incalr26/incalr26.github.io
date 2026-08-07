@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://incalr26.dpdns.org/sitemap.xml
