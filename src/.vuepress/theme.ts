@@ -8,7 +8,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://incalr26.github.io",
+  hostname: "https://incalr26.dpdns.org",
 
   author: {
     name: "Incalr26",
