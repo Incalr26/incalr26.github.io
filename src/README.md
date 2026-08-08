@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg
 heroText: Incalr26的小站
 heroFullScreen: false
 tagline: ……

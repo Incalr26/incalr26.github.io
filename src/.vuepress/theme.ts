@@ -15,9 +15,9 @@ export default hopeTheme({
     url: "https://incalr26.dpdns.org",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://avatars.githubusercontent.com/u/289005029",
 
-  // repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Incalr26/incalr26.github.io",
 
   docsDir: "src",
 
