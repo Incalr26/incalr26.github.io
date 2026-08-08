@@ -88,7 +88,7 @@ export default hopeTheme({
         icon: fs.readFileSync(path.resolve(__dirname, "public/assets/icon/Matrix.svg"), "utf-8")
       },
       Yhchat: {
-        link: "https://www.yhchat.com/user/homepage/5114302",
+        link: "https://www.yhchat.com/user/homepage/7797419",
         icon: fs.readFileSync(path.resolve(__dirname, "public/assets/icon/yhchat.svg"), "utf-8")
       },
     },
