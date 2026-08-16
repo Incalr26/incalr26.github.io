@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://incalr26.dpdns.org/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://incalr26.dpdns.org/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Incalr26的小站</title>
+    <link>https://incalr26.dpdns.org/</link>
+    <description>Incalr26的小站</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 16 Aug 2026 14:34:21 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:34:21 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Hello World</category>
+    <item>
+      <title>介绍页</title>
+      <link>https://incalr26.dpdns.org/intro.html</link>
+      <guid>https://incalr26.dpdns.org/intro.html</guid>
+      <source url="https://incalr26.dpdns.org/rss.xml">介绍页</source>
+      <description>介绍页 ……</description>
+      <pubDate>Sun, 16 Aug 2026 14:30:11 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>……</p>
+]]></content:encoded>
+      <enclosure url="https://incalr26.dpdns.org/assets/images/cover3.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://incalr26.dpdns.org/posts/hello-world/hello-world.html</link>
+      <guid>https://incalr26.dpdns.org/posts/hello-world/hello-world.html</guid>
+      <source url="https://incalr26.dpdns.org/rss.xml">Hello World</source>
+      <description>Hello World 这是这个网站的第一篇文章</description>
+      <category>Hello World</category>
+      <pubDate>Fri, 07 Aug 2026 19:18:10 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>这是这个网站的第一篇文章</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
