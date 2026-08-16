@@ -39,7 +39,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  //   footer: "默认页脚",
   displayFooter: true,
 
   // 博客相关
@@ -261,5 +261,15 @@ export default hopeTheme({
     //     ],
     //   },
     // },
+	
+    // RSS 订阅
+    feed: true,
+
+    // 本地搜索
+    slimsearch: {
+      // 索引全部内容
+      indexContent: true,
+    },
+	
   },
 });
