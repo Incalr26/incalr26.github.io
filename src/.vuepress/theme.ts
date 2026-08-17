@@ -39,8 +39,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  //   footer: "默认页脚",
-  //  displayFooter: true,
+  footer: 'Powered by <a href="https://github.com/vuepress/core">VuePress</a> & <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope">vuepress-theme-hope</a>',
+  displayFooter: true,
 
   // 博客相关
   blog: {
